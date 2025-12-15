@@ -20,3 +20,22 @@ Learning SQL JOINs and advanced queries using the Chinook music store database.
 - MySQL Workbench
 - Database: Chinook (SQLite sample database)
 
+
+## Repository Structure
+
+```
+sql-chinook-analysis/
+├── README.md
+├── database-schema.md      # Table relationships reference
+├── resources.md            # Learning resources
+├── joins/
+│   ├── joins_practice1.sql
+│   ├── joins_practice2.sql
+```
+
+## Query Count: 10+ queries across 2 files
+
+## Recent Activity
+- Added complex JOIN queries
+- Documented database schema and relationships
+
