@@ -1,0 +1,21 @@
+# MySQL dumps and backups
+*.sql~
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Temp files
+*.tmp
+~
+
+# Large data files
+*.csv
+*.xlsx
+*.zip
